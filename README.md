@@ -15,8 +15,10 @@
     DH7Z2WU8OD5UARBZEMK5ZKWJT8BG935JYRPVMM5D4DB8TPBEXB9X6TET4KI3KK9HE68MNQYU2V7Z8VTN72L36BYALD7CE7ZV6PW
     AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E
     ```
-- Khuyên dùng file **lservrc**. Download Files crack [lservrc tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/lservrc)
-- Nội dung của file **lservrc**:
+- Khuyên dùng file **lservrc**. Download Files crack [lservrc tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/lservrc) rồi copy chép đè vào thư mục C:\Program Files\IBM\SPSS\Statistics\27 hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách:
+- Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn C:\Program Files\IBM\SPSS\Statistics\27
+- ![image](https://github.com/user-attachments/assets/d44f2aba-647a-4394-ab85-ed5233118c2f)
+- Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
   ```php
   *AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E
   ```
