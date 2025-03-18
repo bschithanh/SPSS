@@ -16,3 +16,7 @@
     AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E
     ```
 - Khuyên dùng file **lservrc**. Download Files crack [lservrc tại đây](https://raw.githubusercontent.com/bschithanh/nguon/main/lservrc)
+- Nội dung của file **lservrc**:
+  ```php
+  *AAAQT323AYRFUSK3NHXQMUNWFNIBAX49SAFVHTZ68QFW9FRD34XESOKUKKVYACOIFLQTANCT6BIULVD363RMLO4RVW9CP#R4NDOMJ0E
+  ```
