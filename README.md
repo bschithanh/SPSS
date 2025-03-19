@@ -122,6 +122,22 @@
   4B6MINO86Z4LZV9AA7GHEC89P5TRNTOHAA3XKX5YW7GM2SWHCCTAFYBL3B3IKPMM7I9N3MSTBXOO8VPKXZHSEXGST8 
   ```
 
+## HỌC SPSS VỚI FILE [cnss.sav](https://raw.githubusercontent.com/bschithanh/nguon/refs/heads/main/cnss.sav)
+
+- [Bấm vào đây](https://github.com/user-attachments/files/19337014/H.NG.D.N.PH.N.M.M.THONG.KE.SPSS.pdf) để tải nội dung bài học
+- [Bấm vào đây](https://raw.githubusercontent.com/bschithanh/nguon/refs/heads/main/cnss.sav) để tải file cnss.sav
+- Chúc quý vị học thành công.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
