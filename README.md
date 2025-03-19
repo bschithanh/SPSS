@@ -47,7 +47,7 @@
   L4NPDW44MDCZASP5B4AGY7WC2FOHSUX5UHVTAK4E9IZZMSONPMBSPBTDPKNVCNX226TYGAFOEWGPRTP9GASUXOXT6RTYBKN5ELK
   ```
 
-  Hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn **C:\Program Files\IBM\SPSS\Statistics\26**, Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
+  Hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn **C:\Program Files\IBM\SPSS\Statistics\25**, Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
 
   ```php
   " " 
@@ -55,33 +55,36 @@
   ```
 
 ### SPSS 24:
-- Key (dùng 1 trong 3 key):
+- Key (dùng 1 trong 2 key):
   ```PHP
   9MQT8R78RQBWEXN3WRG7CEC2WCO6TOREVH6CBAI8TI58MI2QM22IKP6V9L8DHS6T2MOFL5MPNSEXTH4SYI24JOU3WO
   9DNCAF2O3QVDV7FBIO696OO6GWLNXZPPRYTPWF2PPX7C8T6Y24LMVV2ET7DOLX5CXAL5YDLL79UPGEFCPDXP5Q8O5E 
   ```
 
-  Hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn **C:\Program Files\IBM\SPSS\Statistics\26**, Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
+  Hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn **C:\Program Files\IBM\SPSS\Statistics\24**, Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
 
   ```php
   " " 
   KLY76DO3FVLOHZORYZSY66NKAMBMUOW5AT7J5GEN5AUE5WDY4YEC4PGOCODL236QF86LJK8XXUI73WT4TZEI3M92CP# "1200" version "240", no expiration date, exclusive
   ```
 
+### SPSS 23: Password: phamlocblog.com
+- Key (dùng 1 trong 3 key):
+  ```PHP
+  VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
+  VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
+  WUA6REDCUTEMDDOIXG4TEHGWT7NBGM2MKWWEF7AHHZQUNVFI68DWILOE4Z9576SK6L34JHQPFVOOLNJTN8
+  ```
+
+  Hoặc tự chỉnh sửa file **lservrc** trong thư mục cài đặt ở trên bằng cách Mở **NotePad** bằng quyền **Run as Administrator**, sau đó mở file **lservrc** bằng cách truy vào đường dẫn **C:\Program Files\IBM\SPSS\Statistics\23**, Chép đoạn code sau đây dán vào NotePad và bấm **Save** là xong!
+
+  ```php
+  " " 
+  VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y 
+  ```
+
 
  
-
-23:
-Password: phamlocblog.com
-
-VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
-
-VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y
-
-WUA6REDCUTEMDDOIXG4TEHGWT7NBGM2MKWWEF7AHHZQUNVFI68DWILOE4Z9576SK6L34JHQPFVOOLNJTN8
-lservrc
-
-VDOV7M8KUEIAWBZIKPP6DUKX4JIO3LWRSJQW4BTDCU5NS28ZLZSSROOZQ8HASZ6VUHRZRZ8I8DGWIFY9WJTIRD5P9Y 
 
 22:
 9DNCAF2O3QVDV7FBIO696OO6GWLNXZPPRYTPWF2PPX7C8T6Y24LMVV2ET7DOLX5CXAL5YDLL79UPGEFCPDXP5Q8O5E
