@@ -1,4 +1,9 @@
 # SPSS Phần mềm thống kê khá nổi tiếng
+
+QR ngân hàng nếu quí khách có lòng hảo tâm, ủng hộ người soạn cà phê ạ!
+
+![image](https://github.com/user-attachments/assets/b9a751b6-0832-4876-a972-aeaec635d792)
+
 ## SPSS 27
 - Download source [tại đây](https://3w7ng6-my.sharepoint.com/:u:/g/personal/driver_3w7ng6_onmicrosoft_com/EWG3LgcKkjhBpPyqkhk8EIoBL2u7RupajD8aYhUvUMGqTA?e=ffpezG)
 - Giải nén ta được:
